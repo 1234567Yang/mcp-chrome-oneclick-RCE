@@ -67,7 +67,7 @@ There is also a singleton bug for the chrome extension itself (Singleton #306), 
 ## Notes:
 I first reported this on MITRE, with CAN-2026-2035707 on	2026-08-14
 
-I tried to contact the owner, but didn't work, and tried to email GitHub security advisories.
+I tried to contact the owner with [issue 379](https://github.com/hangwin/mcp-chrome/issues/379), but didn't work, and emailed GitHub security advisories.
 
 I contacted CERT/CC, with VU#670380, but they can't contact the owner.
 
