@@ -65,9 +65,12 @@ There is also a singleton bug for the chrome extension itself (Singleton #306), 
 * On Windows, successful RCE requires git-bash to be installed for Claude Code.
 
 ## Notes:
-I first reported this on MITRE, CAN-2026-2035707 on	2026-08-14
-I tried to contact the owner, but didn't work, and tried to email GitHub security adversity
+I first reported this on MITRE, with CAN-2026-2035707 on	2026-08-14
+
+I tried to contact the owner, but didn't work, and tried to email GitHub security adversity.
+
 I contacted CERT/CC, with VU#670380, but they can't contact the owner.
+
 
 I believe that disclosing such vulnerability [publicly](https://github.com/hangwin/mcp-chrome/issues/384) without trying to contact the owner first is bad.
 
