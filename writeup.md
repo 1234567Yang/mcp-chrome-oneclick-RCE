@@ -72,6 +72,6 @@ I tried to contact the owner with [issue 379](https://github.com/hangwin/mcp-chr
 I contacted CERT/CC, with VU#670380, but they can't contact the owner.
 
 
-I believe that disclosing such vulnerability [publicly](https://github.com/hangwin/mcp-chrome/issues/384) on Sep 4 2026, possibly automated by AI, without trying to contact the owner first is bad.
+I found that a AI agent disclosed such vulnerability [publicly](https://github.com/hangwin/mcp-chrome/issues/384) on Sep 4 2026, when I'm trying to contact the owner privately first.
 
 Claude code helped with the PoC and discovered the &Improvements part.
